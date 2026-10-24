@@ -1,0 +1,8 @@
+<svg width="320" height="84" viewBox="0 0 320 84" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="320" height="84" rx="20" fill="#0A0F0F"/>
+  <path d="M34 18L20 27V57L34 66L48 57V27L34 18Z" stroke="#34D399" stroke-width="3"/>
+  <path d="M34 28L42 34V52L34 58L26 52V34L34 28Z" stroke="#D1FAE5" stroke-width="2.4"/>
+  <path d="M34 19V66" stroke="#34D399" stroke-width="3"/>
+  <text x="68" y="49" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="700" letter-spacing="1.5">HACK HALT</text>
+  <text x="68" y="70" fill="#A7F3D0" font-family="Segoe UI, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="3.4">SECURITY</text>
+</svg>
